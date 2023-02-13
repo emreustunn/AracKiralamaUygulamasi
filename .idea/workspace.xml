@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1105d9c8-57d6-494b-ac4b-89659518de8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/AracKiralamaUygulamasiRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/controller/AracController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/controller/KiralamaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/controller/KisiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/repository/AracRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/repository/KiralamaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/repository/KisiRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/repository/entity/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/repository/entity/Kiralama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/repository/entity/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/service/AracService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/service/KiralamaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/service/KisiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/utility/HibernateUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/utility/ICrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/utility/IMyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/utility/IService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/utility/MyFactoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/emre/utility/MyFactoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LfrbKzCeISF3SXl1wBPjvVX7RE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Public/Documents/JAVA_6/KODLAR_INTELLIJ/AracKiralamaUygulamasi/src/main/java/com/emre/utility"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Documents\JAVA_6\KODLAR_INTELLIJ\AracKiralamaUygulamasi\src\main\java\com\emre\utility" />
+      <recent name="C:\Users\Public\Documents\JAVA_6\KODLAR_INTELLIJ\AracKiralamaUygulamasi\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AracKiralamaUygulamasiRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emre.AracKiralamaUygulamasiRunner" />
+      <module name="AracKiralamaUygulamasi.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emre.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AracKiralamaUygulamasiRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1105d9c8-57d6-494b-ac4b-89659518de8c" name="Changes" comment="" />
+      <created>1676273050150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676273050150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
